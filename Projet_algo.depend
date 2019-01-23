@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1450988272 source:c:\users\anfel-pc\desktop\projet_algo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	"time.h"
+	<string.h>
+	<ctype.h>
+	"Fonction.h"
+
+1450973386 c:\users\anfel-pc\desktop\projet_algo\fonctions.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<ctype.h>
+
+1450987187 source:c:\users\anfel-pc\desktop\projet_algo\fonction.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<ctype.h>
+	"Fonction.h"
+
+1450986681 c:\users\anfel-pc\desktop\projet_algo\fonction.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<ctype.h>
+
+1450979618 source:c:\users\anfel-pc\desktop\projet_algo\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1450979882 c:\users\anfel-pc\desktop\projet_algo\conio2.h
+	<conio.h>
+	<windows.h>
+
+1450979882 c:\users\anfel-pc\desktop\projet_algo\conio.h
+	<_mingw.h>
+
+1451733389 source:d:\projets l2 acad\tp1algo à rendre\projet_algo\fonction.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<ctype.h>
+	"Fonction.h"
+
+1451433857 d:\projets l2 acad\tp1algo à rendre\projet_algo\fonction.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<ctype.h>
+
+1450995120 source:d:\projets l2 acad\tp1algo à rendre\projet_algo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	"time.h"
+	<string.h>
+	<ctype.h>
+	"Fonction.h"
+
